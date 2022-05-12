@@ -17,3 +17,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Created By:
 [Weston Barnes](https://github.com/bkwes)
+
+### Demonstration Video: 
+[ecomm-wiz demo](https://drive.google.com/file/d/1sGbkfCYzvUrF8VaEIUUUUw_bI0MIPwPp/view)
